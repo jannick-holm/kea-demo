@@ -1,0 +1,17 @@
+@import "styles/_topLevelNav";
+@import "styles/_buttons";
+@import "styles/_posts";
+
+* {
+	font-family: 'Helvetica Neue';
+}
+
+body {
+	background-color: rgb(245 245 245);
+}
+
+.App {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}

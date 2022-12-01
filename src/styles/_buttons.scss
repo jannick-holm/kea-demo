@@ -1,0 +1,20 @@
+.button {
+	display: flex;
+	cursor: pointer;
+	padding: 0.75em 1em;
+	font-weight: 900;
+	border-radius: 5px;
+	border-width: 1px;
+	border-style: solid;
+	background-color: #333;
+	color: #fafafa;
+
+	&.button--style-outline {
+		background-color: transparent;
+		color: #333;
+	}
+}
+
+a {
+	color: black;
+}
